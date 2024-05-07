@@ -1,3 +1,5 @@
 this is file 1
 
 this is another line of text
+
+line of text 3
